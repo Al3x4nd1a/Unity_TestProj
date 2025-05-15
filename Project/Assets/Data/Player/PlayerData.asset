@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a87b0121ffb6374f86d3cfdc00ed7b6, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  m_maxHP: 100
+  m_walkSpeed: 7
+  m_runSpeed: 15
+  m_rotationSpeed: 720
+  m_minBonusDuration: 3
+  m_maxBonusDuration: 5
+  m_moveParameter: IsMoving
+  m_velocityParameter: Velocity

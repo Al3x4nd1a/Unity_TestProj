@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SpawnObjects
+  m_EditorClassIdentifier: 
+  m_GroupName: SpawnObjects
+  m_GUID: b5d11b9b42f0b1846972d34213246c51
+  m_SerializeEntries:
+  - m_GUID: 3970c734b69a41649b6fc71795aaabda
+    m_Address: Scroll
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dc9f3dcf3d50b6459c8498ff06ca2da
+    m_Address: Bomb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d986b3e7a2fbce429f4339b6a1ec259
+    m_Address: Diamond
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9ce731ab7eef5904ca076bc50bbeb95b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 075aa4750dd6cad49b217dad47d9c9c6, type: 2}
+    - {fileID: 11400000, guid: 2fc38b5ef95df034ba6ce803351a8b98, type: 2}
